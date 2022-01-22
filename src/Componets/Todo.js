@@ -4,6 +4,7 @@ import logo from "../Images/todo.png"
 const Todo = () => {
 
 console.log("test")
+console.log("test")
     const [inputVal, setInputVal] = useState("")
     const [EachItems, setEachItems] = useState([])
 
